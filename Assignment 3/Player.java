@@ -1,3 +1,4 @@
+// cooperate with Jiazheng Xiong
 public abstract class Player {
     protected String playerName;
     //protected player
