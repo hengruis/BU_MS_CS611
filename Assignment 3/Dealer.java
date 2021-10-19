@@ -1,4 +1,4 @@
-
+// cooperate with Jiazheng Xiong
 public class Dealer {
     public Hand dealerHand = new Hand();
     protected String dealerName = "Dealer";
