@@ -1,3 +1,4 @@
+// cooperate with Jiazheng Xiong
 public class Card {
     private int rank; // Ace, 2-10, J, Q, K
     private String suit;
